@@ -1,0 +1,13 @@
+[module]
+
+[module.hugoVersion]
+extended = true
+min = "0.88.0"
+
+[[module.mounts]]
+source = "assets/images"
+target = "assets/images"
+
+[[module.mounts]]
+source = "layouts"
+target = "layouts"
