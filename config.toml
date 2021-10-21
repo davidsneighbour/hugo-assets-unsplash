@@ -11,7 +11,3 @@ target = "assets/images"
 [[module.mounts]]
 source = "layouts"
 target = "layouts"
-
-[[module.mounts]]
-source = "bin"
-target = "bin"
